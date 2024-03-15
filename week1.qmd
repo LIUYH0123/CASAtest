@@ -14,6 +14,8 @@ What impressed me most about this week's course was the powerful ability that re
 
 ## References
 
+Aboelnour, M., & Engel, B. A. (2018). Application of remote sensing techniques and geographic information systems to analyze land surface temperature in response to land use/land cover change in Greater Cairo Region, Egypt. Journal of Geographic Information System, 10(1), 57-88.
+
 This is a book created from markdown and executable code.
 
 See @knuth84 for additional discussion of literate programming.
