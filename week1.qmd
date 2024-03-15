@@ -12,6 +12,8 @@ A specific example of the application of remote sensing data preprocessing, spec
 
 What impressed me most about this week's course was the powerful ability that remote sensing technology gives us to observe and understand information about features on the Earth's surface. For example, the spectral features I extracted from the Sentinel and Landsat datasets in the hands-on class can be used to classify and compare different types of features, and identify the characteristics and distribution of various features on the Earth. In my undergraduate stage, I had studied the course of land management, at that time, the teacher mentioned that remote sensing can be used in land use and cover change detection and other aspects to provide basic information for land planning and management, and this class gave me the opportunity to process remote sensing data and analyse the land cover type of hands-on practice, which gave me a deeper understanding of what I had learnt before, and at the same time, it also made me look forward to the content of the next study, which will bring me more The class has given me a deeper understanding of what I have learnt, and also made me look forward to what I will learn next, which will bring me more inspiration.
 
+## References
+
 This is a book created from markdown and executable code.
 
 See @knuth84 for additional discussion of literate programming.

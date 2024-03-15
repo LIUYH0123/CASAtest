@@ -1,6 +1,6 @@
 project:
   type: book
-  output-dir: docs
+  output-dir: E:/CASA0023learningdiary
 book:
   title: "CASA 0023 Learning Diary"
   author: "Yihan Liu"
